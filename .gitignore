@@ -25,3 +25,6 @@ replay_pid*
 
 # VSCode
 .vscode
+
+# Secret Files
+.env
