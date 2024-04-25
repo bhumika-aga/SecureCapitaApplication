@@ -1,3 +1,11 @@
+# Application Architecture
+
+<p align="center">
+    <img src="assets/img.png" width="auto">
+</p>
+
+- Tech Stack Used - Java, Spring Boot, MySQL,JWT Authentication, Docker
+
 # Application Requirements
 
 ## Application User
