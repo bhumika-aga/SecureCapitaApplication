@@ -9,5 +9,4 @@ public class SecurecapitaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SecurecapitaApplication.class, args);
 	}
-
 }

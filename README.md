@@ -64,3 +64,11 @@
 - Pagination
 
 ## Invoices
+
+### 1. Manage Invoices
+
+- Create new invoices
+- Add invoices to customer
+- Print invoices for mailing
+- Print invoices in spreadsheet
+- Download invoices as PDF
